@@ -2,7 +2,7 @@
 
 This project is a poetry/song generator through the use of Recurring Neural Networks, made with the support of the Tensorflow team.
 
-They have a series of videos on NLP that can be seen [here]([https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection/code](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&index=1)).
+They have a series of videos on NLP that can be seen [here]([https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&index=1]).
 
 Instead of a dataset, in this project we used the lyrics of irish songs compiled in one large txt file.
 
